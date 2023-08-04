@@ -1,0 +1,11 @@
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\bin\Debug\Assingment_HTTP.exe.config
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\bin\Debug\Assingment_HTTP.exe
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\bin\Debug\Assingment_HTTP.pdb
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.csproj.AssemblyReference.cache
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.exe
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.pdb
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GOD\source\repos\Assingment_HTTP\Assingment_HTTP\obj\Debug\Assingment_HTTP.csproj.CopyComplete
